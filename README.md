@@ -3,11 +3,13 @@
 Assignments, for example to be used during meetings and presentations, can be shared here.
 
 <br/>
+
 ## Categories
 
 "Starting out" holds the assignments for people that just started coding in general, or started coding in Python.
 
 <br/>
+
 ## Setting up a simple coding environment
 
 If you just want people to start coding as fast as possible without so much hassle, here are some suggestions. Due note that there are other options also, but they may be more complicated to start or may run still in Python 2.
